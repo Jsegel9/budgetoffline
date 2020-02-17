@@ -1,3 +1,5 @@
+console.log("service worker working")
+
 const FILES_TO_CACHE = [
     
   ];
