@@ -1,7 +1,13 @@
 console.log("service worker working")
 
 const FILES_TO_CACHE = [
-    
+    "/",
+    "/db.js",
+    "/index.html",
+    "/index.js",
+    "/style.css",
+    "../models/transaction.js",
+    "../routes/api.js"
   ];
   
 
